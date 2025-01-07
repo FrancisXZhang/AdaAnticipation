@@ -11,4 +11,4 @@ We present a novel geometric approach with a streamlined yet comprehensive repre
 python main.py
 ```
 # Contact
-For any queries, please feel free to contact Xiatian Zhang at Xiatian.Zhang@durham.ac.uk
+For any queries, please feel free to contact Francis Xiatian Zhang at Francis.Xiatian.Zhang@outlook.com
